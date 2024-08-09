@@ -3,20 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackdevlabs&label=Profile%20views&color=0e75b6&style=flat" alt="blackdevlabs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackdevlabs" alt="blackdevlabs" /></a> </p>
-
 - 🔭 I’m currently working on **The BlackDevClient**
 
 - 🌱 I’m currently learning **Java,Kotlion,JS,Lua**
 
 - 💬 Ask me about **Discord bots**
 
-- 📫 How to reach me **https://discod.com/users/1266421704536887337**
+- 📫 How to reach me **blackdevlabs@gmail.com**
 
 - ⚡ Fun fact **I Literally got a GF lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  https://discord.com/users/1266421704536887337
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackdevlabs&show_icons=true&locale=en&layout=compact" alt="blackdevlabs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackdevlabs&show_icons=true&locale=en" alt="blackdevlabs" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackdevlabs&" alt="blackdevlabs" /></p>

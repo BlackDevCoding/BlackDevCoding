@@ -6,10 +6,9 @@ Welcome to my GitHub! I’m passionate about Creating Fabric mods Plugins and Di
 
 ### 🧑‍💻 About Me
 
-- **Current Role**: Owner of BlackDevLabs
-- **Skills**: Java,Python,JS,HTML,CSS
-- **Learning**: Currently exploring Kotlin and generell Domain setup
-- **Fun Fact**: i am a Programmer and still have a girlfriend
+Hi I am TJ. I am a 16 year old German living in Ireland I started programming in 2019 while the corona Pandemic on that time I was 11 and got my first laptop for Christmas it was like a Dream I started Programming with Python. Soon I found the Social app Discord and Started to make friends under a different name than my name now BlackDev. after 1 year I discovered Java and started to program with that doing things for Minecraft like Plugins or mods after 1.5-2 years I wanted to have a portfolio website so I learned HTML CSS and a little bit of JS. 
+
+PS: I don't like Kotlin (I still learn it)
 
 ---
 

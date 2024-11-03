@@ -35,6 +35,6 @@ Welcome to my GitHub! I’m passionate about Creating Fabric mods Plugins and Di
 ### 🌐 Find Me Around the Web
 
 [![Discord](https://dcbadge.limes.pink/api/shield/1266421704536887337)]()
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=google-chrome)](BlackDev.xyz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=google-chrome)](https://blackdev.xyz)
 
 ---

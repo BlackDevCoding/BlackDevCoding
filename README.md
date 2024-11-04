@@ -13,12 +13,16 @@ PS: I don't like Kotlin (I still learn it)
 ---
 
 ### 🔧 Tech & Tools
-
+![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=openjdk)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=for-the-badge&logo=Kotlin)
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-333?style=for-the-badge&logo=IntelliJIDEA)
+![macOS](https://img.shields.io/badge/-macOS-333?style=for-the-badge&logo=apple)
+
 
 ---
 

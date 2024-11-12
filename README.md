@@ -37,7 +37,6 @@ PS: I don't like Kotlin (I still learned it though)
 
 ### 🌐 Find Me Around the Web
 
-[![Discord](https://dcbadge.limes.pink/api/shield/1266421704536887337)]()
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=google-chrome)](https://blackdev.xyz)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1266421704536887337)](https://discord.com/users/1266421704536887337)
 
 ---

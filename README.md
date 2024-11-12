@@ -1,6 +1,6 @@
 # Hi, I'm BlackDev 👋
 
-Welcome to my GitHub! I’m passionate about creating Fabric mods, plugins and Discord bot coding
+[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=BlackDevReal&theme=city&email=dev@blackdev.xyz&show_icons=true&title=BlackDev&description=&include_all_commits=true&show_icons=true)](https://github.com/blackdevreal)
 
 ---
 

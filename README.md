@@ -26,8 +26,17 @@ PS: I don't like Kotlin (I still learned it though)
 
 ---
 ### Projects
-<div align="left">
-<a href="https://github.com/BlackDevReal/MavenMCP-1.8.9-all-os"><img align="center" src="https://fancy-readme-stats.vercel.app/api/pin/?username=BlackDev&repo=MavenMCP-1.8.9-all-os&theme=city&show_icons=true&update=4&dark_bg=3" /></a>
+<br>
+<div align="left">                                                                                                                          
+  <div align="right">
+<a href="https://github.com/BlackDevReal/MavenMCP-1.8.9-all-os"><img align="center" src="https://fancy-readme-stats.vercel.app/api/pin/?username=BlackDevReal&repo=MavenMCP-1.8.9-all-os&theme=city&show_icons=true&update=6&dark_bg=3" /></a>
+<a href="https://github.com/BlackDevReal/SimpleObfuscator"><img align="center" src="https://fancy-readme-stats.vercel.app/api/pin/?username=BlackDevReal&repo=SimpleObfuscator&theme=city&show_icons=true&update=6&dark_bg=3" /></a>
+<div align="left">                                                                                                                          
+  <div align="right">
+<a href="https://github.com/BlackDevReal/BlackDash"><img align="center" src="https://fancy-readme-stats.vercel.app/api/pin/?username=BlackDevReal&repo=BlackDash&theme=city&show_icons=true&update=6&dark_bg=3" /></a>
+<a href="https://github.com/BlackDevReal/Simple-Python-Obfuscator"><img align="center" src="https://fancy-readme-stats.vercel.app/api/pin/?username=BlackDevReal&repo=Simple-Python-Obfuscator&theme=city&show_icons=true&update=6&dark_bg=3" /></a>
+<br>
+
 
 ### 📊 GitHub Stats
 

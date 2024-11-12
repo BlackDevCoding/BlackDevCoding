@@ -25,6 +25,9 @@ PS: I don't like Kotlin (I still learned it though)
 
 
 ---
+### Projects
+<div align="left">
+<a href="https://github.com/BlackDevReal/MavenMCP-1.8.9-all-os"><img align="center" src="https://fancy-readme-stats.vercel.app/api/pin/?username=BlackDev&repo=MavenMCP-1.8.9-all-os&theme=city&show_icons=true&update=4&dark_bg=3" /></a>
 
 ### 📊 GitHub Stats
 

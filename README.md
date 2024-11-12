@@ -25,7 +25,7 @@ PS: I don't like Kotlin (I still learned it though)
 
 
 ---
-### Projects
+### 💼 Projects
 <br>
 <div align="left">                                                                                                                          
   <div align="right">
@@ -36,6 +36,7 @@ PS: I don't like Kotlin (I still learned it though)
 <a href="https://github.com/BlackDevReal/BlackDash"><img align="center" src="https://fancy-readme-stats.vercel.app/api/pin/?username=BlackDevReal&repo=BlackDash&theme=city&show_icons=true&update=6&dark_bg=3" /></a>
 <a href="https://github.com/BlackDevReal/Simple-Python-Obfuscator"><img align="center" src="https://fancy-readme-stats.vercel.app/api/pin/?username=BlackDevReal&repo=Simple-Python-Obfuscator&theme=city&show_icons=true&update=6&dark_bg=3" /></a>
 <br>
+  </div>
 
 
 ### 📊 GitHub Stats

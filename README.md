@@ -42,7 +42,7 @@ PS: I don't like Kotlin (I still learned it though)
 
 ### 📊 GitHub Stats
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlackDevReal&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackDevReal&layout=compact&theme=github_dark&hide_border=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackDevReal&layout=compact&theme=github_dark&hide_border=true"/>
 
 
 

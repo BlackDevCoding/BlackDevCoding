@@ -11,7 +11,7 @@ PS: I don't like Kotlin (I still learned it though)
 ---
 
 ### 🔧 Tech & Tools
-<a href="https://github.com/BlackDevReal/">
+<a href="https://github.com/BlackDevReal/" align="left">
   <img align="center" src="https://fancy-readme-stats.vercel.app/api/wakatime?username=BlackDevReal&theme=snow&dark_bg=7&show_icons=true&layout=compact&update=1" />
 </a>
 
@@ -33,8 +33,9 @@ PS: I don't like Kotlin (I still learned it though)
 ---
 
 ### 📊 GitHub Stats
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackDevReal&layout=compact&theme=github_dark&hide_border=true"/>
-
+<a href="https://github.com/BlackDevReal" align="left">
+  <img align="center" src="https://fancy-readme-stats.vercel.app/api/top-langs/?username=BlackDevReal&theme=snow&dark_bg=7&show_icons=true&layout=normal&update=2" />
+</a>
 ---
 
 ### 🌐 Find Me Around the Web

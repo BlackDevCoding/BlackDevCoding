@@ -1,6 +1,4 @@
-# Hi, I'm BlackDev 👋
-
-[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=BlackDevReal&theme=city&email=dev@blackdev.xyz&show_icons=true&title=BlackDev&description=&include_all_commits=true&show_icons=true)](https://github.com/blackdevreal)
+[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=BlackDevReal&theme=city&email=dev@blackdev.xyz&show_icons=true&title=Hi,%20I'm%20BlackDev%20👋&description=Developer%20from%20Germany&include_all_commits=true&show_icons=true)](https://github.com/blackdevreal)
 
 ---
 
@@ -42,8 +40,6 @@ PS: I don't like Kotlin (I still learned it though)
 
 ### 📊 GitHub Stats
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackDevReal&layout=compact&theme=github_dark&hide_border=true"/>
-
-
 
 ---
 

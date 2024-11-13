@@ -36,6 +36,7 @@ PS: I don't like Kotlin (I still learned it though)
 <a href="https://github.com/BlackDevReal" align="left">
   <img align="center" src="https://fancy-readme-stats.vercel.app/api/top-langs/?username=BlackDevReal&theme=snow&dark_bg=7&show_icons=true&layout=normal&update=2" />
 </a>
+
 ---
 
 ### 🌐 Find Me Around the Web

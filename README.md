@@ -1,4 +1,4 @@
-[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=BlackDevReal&theme=snow&email=dev@blackdev.xyz&show_icons=true&title=Hi,%20I'm%20BlackDev%20👋&description=Developer%20from%20Germany&include_all_commits=true&show_icons=true)](https://github.com/blackdevreal)
+[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=BlackDevReal&theme=snow&footer=dev@blackdev.xyz&show_icons=true&title=Hi,%20I'm%20BlackDev%20👋&description=Developer%20from%20Germany&include_all_commits=true&show_icons=true)](https://github.com/blackdevreal)
 
 ---
 

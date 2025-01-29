@@ -44,3 +44,6 @@ PS: I don't like Kotlin (I still learned it though)
 [![Discord Presence](https://lanyard.cnrad.dev/api/1266421704536887337)](https://discord.com/users/1266421704536887337)
 
 ---
+![qr-code](https://github.com/user-attachments/assets/f223bea3-3a44-4166-aa3f-026e801d4c7f)
+
+

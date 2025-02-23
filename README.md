@@ -18,8 +18,10 @@ PS: I don't like Kotlin (I still learned it though)
 
 ---
 ### 💼 Projects
-current project:
+current projects:
 <img src= "https://wakatime.com/badge/user/9154ea1d-b2ec-4c71-ae36-f573d0227ae8/project/66e7ee2a-e703-4bdd-8d9f-0e2a3c1411a8.svg" />
+<img src= "https://wakatime.com/badge/user/9154ea1d-b2ec-4c71-ae36-f573d0227ae8/project/b783f1e7-849f-4a61-8a45-368d471ee887.svg" />
+
 
   <div align="right">
 <div align="left">                                                                                                                          

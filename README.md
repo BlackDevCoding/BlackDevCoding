@@ -29,7 +29,7 @@ current projects:
 <a href="https://github.com/BlackDevReal/SimpleObfuscator"><img align="center" src="https://fancy-readme-stats.vercel.app/api/pin/?username=BlackDevReal&repo=SimpleObfuscator&theme=snow&show_icons=true&update=7&dark_bg=3" /></a>
 <div align="right">
 <div align="left">                                                                                                                          
-<a href="https://github.com/BlackDevReal/BlackDash"><img align="center" src="https://fancy-readme-stats.vercel.app/api/pin/?username=BlackDevReal&repo=BlackDash&theme=snow&show_icons=true&update=6&dark_bg=3" /></a>
+<a href="https://github.com/BlackDevReal/MinecraftPlayerDashboard"><img align="center" src="https://fancy-readme-stats.vercel.app/api/pin/?username=BlackDevReal&repo=MinecraftPlayerDashboard&theme=snow&show_icons=true&update=6&dark_bg=3" /></a>
 <a href="https://github.com/BlackDevReal/Simple-Python-Obfuscator"><img align="center" src="https://fancy-readme-stats.vercel.app/api/pin/?username=BlackDevReal&repo=Simple-Python-Obfuscator&theme=snow&show_icons=true&update=6&dark_bg=3" /></a>
   </div>
 </div>

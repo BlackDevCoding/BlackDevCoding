@@ -12,7 +12,7 @@ PS: I don't like Kotlin (I still learned it though)
 
 ### 🔧 Tech & Tools
 <a href="https://github.com/BlackDevCoding/" align="left">
-  <img align="center" src="https://fancy-readme-stats.vercel.app/api/wakatime?username=BlackDevCoding&theme=blue_navy&show_icons=true&layout=compact&update=7&dark_bg=3" />
+  <img align="center" src="https://fancy-readme-stats.vercel.app/api/wakatime?username=BlackDevReal&theme=blue_navy&show_icons=true&layout=compact&update=7&dark_bg=3" />
 </a>
 
 

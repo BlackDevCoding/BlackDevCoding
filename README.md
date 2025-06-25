@@ -4,7 +4,7 @@
 
 ### 🧑‍💻 About Me
 
-Hi, I am TJ. I am a 16 year old German living in Ireland. I started programming in 2019 during the Covid19 Pandemic. Back then I was 11 and got my first laptop for Christmas. It was like a dream and I first started programming with Python. Soon, I found the social app Discord and started to make friends under a different name than my name now, "BlackDev". After 1 year I discovered Java and started to program with it, doing things for Minecraft, like plugins and mods. After 2 years I wanted to have a portfolio website so I learned HTML, CSS and a little bit of JS. 
+Hi, I am TJ. I am a 16 year old living in Germany. I started programming in 2019 during the Covid19 Pandemic. Back then I was 11 and got my first laptop for Christmas. It was like a dream and I first started programming with Python. Soon, I found the social app Discord and started to make friends under a different name than my name now, "BlackDev". After 1 year I discovered Java and started to program with it, doing things for Minecraft, like plugins and mods. After 2 years I wanted to have a portfolio website so I learned HTML, CSS and a little bit of JS. 
 
 PS: I don't like Kotlin (I still learned it though)
 
